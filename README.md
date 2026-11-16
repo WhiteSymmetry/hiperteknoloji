@@ -30,7 +30,7 @@ Yaşadığım tecrübeler bunu bana açıkça gösterdi. Bu ve benzeri nedenlerl
 # Why Hypertechnology?
 
 **Mehmet Keçeci**
-**01.07.2001**
+**2001-07-01**
 
 *Hyper* means "excessive, beyond," and carries a meaning close to *Advanced* (developed, advanced) and *High* (high). Therefore, the Turkish pronunciation "Hiper" was chosen for the site's name. The name encompasses the meanings of advanced, developed, and high technology. Here, I consider "Hyper" to represent theoretical sciences and "technology" to represent applied sciences.
 
